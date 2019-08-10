@@ -100,7 +100,7 @@ def poc(url):
             if len(v) > 5:
                 continue
             for i in v:
-                rel.append("[filescan]  " + i + "  length:" + k
-    if result:
-        return result
+                rel.append("[filescan]  " + i + "  length:" + k)
+    if rel:
+        return rel
 
