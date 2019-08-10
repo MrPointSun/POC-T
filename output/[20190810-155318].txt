@@ -1,0 +1,34 @@
+[filescan]  https://ditu.qq.com/readme.html
+[filescan]  https://og.qq.com/config.inc
+[filescan]  https://og.qq.com/readme.html
+[filescan]  https://oops.qq.com/readme.html
+[filescan]  https://qgc.qq.com/readme.html
+[filescan]  https://imtt.qq.com/readme.html
+[filescan]  https://just.qq.com/readme.html
+[filescan]  http://deco.qq.com/a.out
+[filescan]  http://ysdk.qq.com/config.inc
+[filescan]  http://ysdk.qq.com/a.out
+[filescan]  http://ysdk.qq.com/key
+[filescan]  http://ysdk.qq.com/keys
+[filescan]  http://ysdk.qq.com/readme
+[filescan]  http://ysdk.qq.com/README
+[filescan]  http://ysdk.qq.com/readme.md
+[java web]  http://ysdk.qq.com/WEB-INF/database.properties
+[java web]  http://ysdk.qq.com/WEB-INF/web.properties
+[java web]  http://ysdk.qq.com/WEB-INF/log4j.properties
+[java web]  http://ysdk.qq.com/WEB-INF/classes/dataBase.properties
+[java web]  http://ysdk.qq.com/WEB-INF/classes/application.properties
+[java web]  http://ysdk.qq.com/WEB-INF/classes/jdbc.properties
+[java web]  http://ysdk.qq.com/WEB-INF/classes/db.properties
+[java web]  http://ysdk.qq.com/WEB-INF/classes/conf/jdbc.properties
+[java web]  http://ysdk.qq.com/WEB-INF/classes/security.properties
+[java web]  http://ysdk.qq.com/WEB-INF/conf/database_config.properties
+[filescan]  https://100079188.qzone.qq.com/readme.html
+[java web]  https://admonitor.qq.com/config/database.yml
+[filescan]  https://admonitor.qq.com/config.inc
+[filescan]  https://admonitor.qq.com/a.out
+[filescan]  https://admonitor.qq.com/key
+[filescan]  https://admonitor.qq.com/keys
+[filescan]  https://admonitor.qq.com/readme
+[filescan]  https://admonitor.qq.com/README
+[filescan]  https://admonitor.qq.com/readme.md

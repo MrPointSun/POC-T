@@ -1,0 +1,3 @@
+[iis7.5 parse]https://docs.qq.com/robots.txt/.php
+
+[Workspace Leak]http://p.imtt.qq.com/.idea/workspace.xml

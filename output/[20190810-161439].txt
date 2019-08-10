@@ -1,0 +1,410 @@
+[java web]  https://anxi.1688.com/server.xml
+[java web]  https://cangzhou.1688.com/server.xml
+[java web]  https://zhucheng.1688.com/server.xml
+[java web]  https://yongjia.1688.com/server.xml
+[filescan]  https://zj.1688.com/readme.html
+[filescan]  https://page.1688.com/readme.html
+[filescan]  https://fr.1688.com/readme.html
+[filescan]  https://zhenjiang.1688.com/readme.html
+[iis7.5 parse]https://www.1688.com/robots.txt/.php
+[filescan]  https://guangzhou.1688.com/readme.html
+[filescan]  https://buy.1688.com/readme.html
+[filescan]  https://mp4.1688.com/readme.html
+[filescan]  https://fuwu.1688.com/readme.html
+[filescan]  http://pin.aliyun.com/readme.html
+[filescan]  http://view.1688.com/readme.html
+[filescan]  http://err.taobao.com/readme.html
+[filescan]  https://phpwind.aliyun.com/readme.html
+[filescan]  https://dehua.1688.com/readme.html
+[filescan]  https://xingyu.1688.com/readme.html
+[filescan]  https://3c.1688.com/readme.html
+[filescan]  https://wiki.1688.com/readme.html
+[filescan]  http://apps.aliyun.com/readme.html
+[filescan]  https://gd.1688.com/readme.html
+[filescan]  https://job.alibaba.com/config.json
+[filescan]  https://job.alibaba.com/readme.html
+[filescan]  https://daren.1688.com/readme.html
+[filescan]  https://login.taobao.com/readme.html
+[filescan]  http://cfus.aliyun.com/config.json
+[filescan]  https://topic.alibabacloud.com/readme.html
+[java web]  https://job.alibaba.com/server.xml
+[filescan]  https://te.1688.com/readme.html
+[filescan]  https://jg.1688.com/readme.html
+[filescan]  https://chugui.1688.com/readme.html
+[java web]  http://cfus.aliyun.com/server.xml
+[filescan]  https://zh.1688.com/readme.html
+[filescan]  https://err.taobao.com/readme.html
+[filescan]  https://changde.1688.com/readme.html
+[filescan]  https://fushi.1688.com/readme.html
+[filescan]  https://shouji.1688.com/readme.html
+[filescan]  https://yunqi.aliyun.com/key
+[filescan]  https://yunqi.aliyun.com/keys
+[filescan]  https://yunqi.aliyun.com/readme
+[filescan]  https://yunqi.aliyun.com/README
+[filescan]  https://ganen.1688.com/readme.html
+[filescan]  https://club.1688.com/readme.html
+[filescan]  https://ump.alimama.com/readme.html
+[filescan]  https://ren.1688.com/readme.html
+[filescan]  https://ods.aliyun.com/readme.html
+[filescan]  https://expo.1688.com/readme.html
+[filescan]  http://gou.1688.com/readme.html
+[filescan]  https://zfcg.1688.com/readme.html
+[filescan]  https://industry.1688.com/readme.html
+[filescan]  https://ux.aliyun.com/readme.html
+[filescan]  https://company.1688.com/readme.html
+[filescan]  https://jinkou.1688.com/readme.html
+[filescan]  https://light.1688.com/readme.html
+[filescan]  https://yangjiang.1688.com/readme.html
+[filescan]  https://gys.1688.com/readme.html
+[filescan]  http://cfd.aliyun.com/readme.html
+[filescan]  https://food.1688.com/readme.html
+[filescan]  https://marketing.1688.com/readme.html
+[filescan]  https://gege.1688.com/readme.html
+[filescan]  https://zhuzhou.1688.com/readme.html
+[filescan]  https://login.1688.com/readme.html
+[filescan]  https://pinghu.1688.com/readme.html
+[filescan]  https://data.aliyun.com/readme.html
+[filescan]  https://caoxian.1688.com/readme.html
+[filescan]  https://cxt.1688.com/readme.html
+[filescan]  https://jiangsu.1688.com/readme.html
+[filescan]  http://page.1688.com/readme.html
+[filescan]  https://app.1688.com/readme.html
+[filescan]  https://muying.1688.com/readme.html
+[filescan]  https://developer.aliyun.com/readme.html
+[filescan]  https://rule.1688.com/readme.html
+[filescan]  https://chengdu.1688.com/readme.html
+[filescan]  https://res.1688.com/readme.html
+[filescan]  https://zhengzhou.1688.com/readme.html
+[filescan]  https://qiang.1688.com/readme.html
+[filescan]  https://market.aliyun.com/readme.html
+[filescan]  https://home.1688.com/readme.html
+[filescan]  https://sq.1688.com/readme.html
+[filescan]  https://baike.1688.com/readme.html
+[filescan]  https://hao.1688.com/readme.html
+[java web]  https://campus.alibaba.com/server.xml
+[filescan]  https://campus.alibaba.com/config.json
+[filescan]  https://campus.alibaba.com/readme.html
+[filescan]  https://subject.1688.com/readme.html
+[filescan]  https://docs.aliyun.com/readme.html
+[filescan]  https://dw.aliyun.com/readme.html
+[filescan]  https://xianyou.1688.com/readme.html
+[filescan]  https://survey.aliyun.com/readme.html
+[filescan]  https://jianzhan.aliyun.com/key
+[filescan]  https://jianzhan.aliyun.com/keys
+[filescan]  https://jianzhan.aliyun.com/readme
+[filescan]  https://jianzhan.aliyun.com/README
+[filescan]  http://cf.aliyun.com/readme.html
+[filescan]  https://dongguan.1688.com/readme.html
+[filescan]  https://fuzhuang.1688.com/readme.html
+[filescan]  https://s.1688.com/readme.html
+[filescan]  https://steel.1688.com/readme.html
+[filescan]  https://auto.1688.com/readme.html
+[filescan]  https://hi.1688.com/readme.html
+[filescan]  https://yl.1688.com/readme.html
+[filescan]  https://workorder.aliyun.com/config.json
+[filescan]  https://pifa.1688.com/readme.html
+[filescan]  https://hongkong.1688.com/readme.html
+[filescan]  https://car.1688.com/readme.html
+[filescan]  https://et.aliyun.com/readme.html
+[filescan]  http://wxb.1688.com/readme.html
+[filescan]  https://mei.1688.com/readme.html
+[filescan]  https://smart.1688.com/readme.html
+[filescan]  https://ba.1688.com/readme.html
+[filescan]  https://chuangkejia.aliyun.com/readme.html
+[filescan]  https://sec.alimama.com/readme.html
+[filescan]  https://qr.1688.com/readme.html
+[filescan]  https://api.m.1688.com/readme.html
+[filescan]  https://p8.1688.com/readme.html
+[filescan]  https://yun.1688.com/readme.html
+[filescan]  https://yulin.1688.com/readme.html
+[filescan]  https://bijie.1688.com/readme.html
+[filescan]  https://japan.1688.com/readme.html
+[filescan]  https://era.1688.com/readme.html
+[filescan]  https://store.taobao.com/readme.html
+[filescan]  https://crp.aliyun.com/readme.html
+[filescan]  https://consumerservice.taobao.com/readme.html
+[filescan]  https://ma.aliyun.com/config.inc
+[filescan]  https://ma.aliyun.com/a.out
+[filescan]  https://ma.aliyun.com/key
+[filescan]  https://ma.aliyun.com/keys
+[filescan]  https://ma.aliyun.com/key.txt
+[filescan]  https://ma.aliyun.com/temp.txt
+[filescan]  https://ma.aliyun.com/tmp.txt
+[filescan]  https://ma.aliyun.com/readme
+[filescan]  https://ma.aliyun.com/README
+[filescan]  https://ma.aliyun.com/readme.md
+[filescan]  https://ma.aliyun.com/changelog.txt
+[filescan]  https://ma.aliyun.com/%e6%9b%b4%e6%96%b0%e6%97%a5%e5%bf%97.txt
+[filescan]  https://ma.aliyun.com/www.log
+[filescan]  https://ma.aliyun.com/error.log
+[filescan]  https://ma.aliyun.com/log.log
+[filescan]  https://ma.aliyun.com/sql.log
+[filescan]  https://ma.aliyun.com/errors.log
+[filescan]  https://ma.aliyun.com/db.log
+[filescan]  https://ma.aliyun.com/data.log
+[filescan]  https://ma.aliyun.com/app.log
+[filescan]  https://mall.1688.com/readme.html
+[filescan]  https://yiwu.1688.com/readme.html
+[Workspace Leak]https://cfsg.aliyun.com/.idea/workspace.xml
+[filescan]  https://hunan.1688.com/readme.html
+[java web]  https://cfsg.aliyun.com/server.xml
+[filescan]  https://cfsg.aliyun.com/config.json
+[filescan]  https://chaoyang.1688.com/readme.html
+[filescan]  https://jiadian.1688.com/readme.html
+[filescan]  https://tk.1688.com/readme.html
+[filescan]  https://ditu.aliyun.com/readme.html
+[filescan]  https://dianzi.1688.com/readme.html
+[filescan]  https://320.1688.com/readme.html
+[filescan]  https://map.aliyun.com/readme.html
+[filescan]  https://ee.1688.com/readme.html
+[filescan]  https://jd.1688.com/readme.html
+[filescan]  http://club.alimama.com/readme.html
+[filescan]  https://s.taobao.com/readme.html
+[filescan]  https://pic.1688.com/readme.html
+[filescan]  https://lingshouyun.taobao.com/readme.html
+[filescan]  https://suggest.1688.com/readme.html
+[filescan]  https://design.1688.com/readme.html
+[filescan]  https://zhengan.1688.com/readme.html
+[filescan]  https://radar.aliyun.com/readme.html
+[filescan]  https://chongqing.1688.com/readme.html
+[filescan]  http://pin2.aliyun.com/config.json
+[filescan]  https://down.1688.com/readme.html
+[filescan]  http://xian.1688.com/readme.html
+[filescan]  https://kj.1688.com/readme.html
+[filescan]  https://gs.1688.com/readme.html
+[filescan]  https://jia.1688.com/readme.html
+[filescan]  https://iot.aliyun.com/config.json
+[filescan]  https://ec.1688.com/readme.html
+[filescan]  https://wanwang.aliyun.com/key
+[filescan]  https://wanwang.aliyun.com/keys
+[filescan]  https://wanwang.aliyun.com/readme
+[filescan]  https://wanwang.aliyun.com/README
+[filescan]  https://huodong.1688.com/readme.html
+[filescan]  https://taobao.1688.com/readme.html
+[filescan]  https://chaoan.1688.com/readme.html
+[filescan]  https://assets.1688.com/readme.html
+[filescan]  https://opsx.alibaba.com/readme.html
+[java web]  https://ai.aliyun.com/WEB-INF/database.properties
+[java web]  https://ai.aliyun.com/WEB-INF/web.properties
+[java web]  https://ai.aliyun.com/WEB-INF/log4j.properties
+[java web]  https://ai.aliyun.com/WEB-INF/classes/dataBase.properties
+[java web]  https://ai.aliyun.com/WEB-INF/classes/application.properties
+[java web]  https://ai.aliyun.com/WEB-INF/classes/jdbc.properties
+[java web]  https://ai.aliyun.com/WEB-INF/classes/db.properties
+[java web]  https://ai.aliyun.com/WEB-INF/classes/conf/jdbc.properties
+[java web]  https://ai.aliyun.com/WEB-INF/classes/security.properties
+[java web]  https://ai.aliyun.com/WEB-INF/conf/database_config.properties
+[filescan]  https://ai.aliyun.com/config.inc
+[filescan]  https://ai.aliyun.com/a.out
+[filescan]  https://ai.aliyun.com/key
+[filescan]  https://ai.aliyun.com/keys
+[filescan]  https://ai.aliyun.com/key.txt
+[filescan]  https://ai.aliyun.com/temp.txt
+[filescan]  https://ai.aliyun.com/tmp.txt
+[filescan]  https://ai.aliyun.com/readme
+[filescan]  https://ai.aliyun.com/README
+[filescan]  https://ai.aliyun.com/readme.md
+[filescan]  https://ai.aliyun.com/changelog.txt
+[filescan]  https://ai.aliyun.com/www.log
+[filescan]  https://ai.aliyun.com/error.log
+[filescan]  https://ai.aliyun.com/log.log
+[filescan]  https://ai.aliyun.com/sql.log
+[filescan]  https://ai.aliyun.com/errors.log
+[filescan]  https://ai.aliyun.com/db.log
+[filescan]  https://ai.aliyun.com/data.log
+[filescan]  https://ai.aliyun.com/app.log
+[filescan]  https://chaozhou.1688.com/readme.html
+[filescan]  https://danyang.1688.com/readme.html
+[filescan]  https://ye.1688.com/readme.html
+[filescan]  https://enjoy.1688.com/readme.html
+[filescan]  https://af.1688.com/readme.html
+[filescan]  https://apm.aliyun.com/readme.html
+[filescan]  https://zhuji.1688.com/readme.html
+[filescan]  https://fuan.1688.com/readme.html
+[filescan]  https://jiazhuang.1688.com/readme.html
+[filescan]  http://cf2.aliyun.com/config.json
+[filescan]  https://zhangzhou.1688.com/readme.html
+[filescan]  https://pai.1688.com/readme.html
+[filescan]  https://kol.alimama.com/readme.html
+[filescan]  https://donghai.1688.com/readme.html
+[filescan]  https://gaoyang.1688.com/readme.html
+[filescan]  https://shanghai.1688.com/readme.html
+[filescan]  https://wanju.1688.com/readme.html
+[filescan]  https://ding.1688.com/readme.html
+[filescan]  https://xls.aliyun.com/key
+[filescan]  https://xls.aliyun.com/keys
+[filescan]  https://xls.aliyun.com/readme
+[filescan]  https://xls.aliyun.com/README
+[filescan]  https://dongying.1688.com/readme.html
+[filescan]  https://tm.aliyun.com/key
+[filescan]  https://tm.aliyun.com/keys
+[filescan]  https://tm.aliyun.com/readme
+[filescan]  https://tm.aliyun.com/README
+[filescan]  https://123.1688.com/readme.html
+[filescan]  https://sec.1688.com/readme.html
+[filescan]  https://job.1688.com/readme.html
+[filescan]  http://ip.aliyun.com/tmp.txt
+[filescan]  https://as.aliyun.com/config.json
+[filescan]  https://as.aliyun.com/key.txt
+[filescan]  https://as.aliyun.com/temp.txt
+[filescan]  https://as.aliyun.com/tmp.txt
+[filescan]  https://as.aliyun.com/readme.html
+[filescan]  https://as.aliyun.com/changelog.txt
+[filescan]  https://as.aliyun.com/%e6%9b%b4%e6%96%b0%e6%97%a5%e5%bf%97.txt
+[filescan]  https://caigou.1688.com/readme.html
+[filescan]  https://view.1688.com/readme.html
+[filescan]  https://3g.1688.com/readme.html
+[filescan]  https://doc.1688.com/readme.html
+[filescan]  https://yunnan.1688.com/readme.html
+[filescan]  https://xf.1688.com/readme.html
+[filescan]  https://opensearch.console.aliyun.com/readme.html
+[filescan]  https://ecs-buy.aliyun.com/config.json
+[filescan]  https://haian.1688.com/readme.html
+[filescan]  https://guangdong.1688.com/readme.html
+[filescan]  https://page.aliyun.com/a.out
+[filescan]  https://page.aliyun.com/key
+[filescan]  https://page.aliyun.com/keys
+[filescan]  https://tw.1688.com/readme.html
+[filescan]  https://zhuangxiu.1688.com/readme.html
+[java web]  https://page.aliyun.com/config/database.yml
+[filescan]  https://re.1688.com/readme.html
+[filescan]  https://sport.1688.com/readme.html
+[filescan]  https://tao.1688.com/readme.html
+[filescan]  https://anji.1688.com/readme.html
+[filescan]  https://errors.aliyun.com/readme.html
+[filescan]  https://security.aliyun.com/key
+[filescan]  https://security.aliyun.com/keys
+[filescan]  https://security.aliyun.com/readme
+[filescan]  https://security.aliyun.com/README
+[filescan]  https://cx.1688.com/readme.html
+[filescan]  https://bozhou.1688.com/readme.html
+[filescan]  https://chem.1688.com/readme.html
+[filescan]  https://cai.1688.com/readme.html
+[filescan]  https://cangnan.1688.com/readme.html
+[filescan]  https://free.1688.com/readme.html
+[filescan]  https://sl.1688.com/readme.html
+[filescan]  https://syj.1688.com/readme.html
+[filescan]  https://api.m.aliyun.com/readme.html
+[filescan]  https://pro.1688.com/readme.html
+[filescan]  https://jingxi.1688.com/readme.html
+[filescan]  https://sycm.taobao.com/readme.html
+[java web]  https://gaas.aliyun.com/config/database.yml
+[java web]  https://gaas.aliyun.com/WEB-INF/database.properties
+[java web]  https://gaas.aliyun.com/WEB-INF/web.properties
+[java web]  https://gaas.aliyun.com/WEB-INF/log4j.properties
+[java web]  https://gaas.aliyun.com/WEB-INF/classes/dataBase.properties
+[java web]  https://gaas.aliyun.com/WEB-INF/classes/application.properties
+[java web]  https://gaas.aliyun.com/WEB-INF/classes/jdbc.properties
+[java web]  https://gaas.aliyun.com/WEB-INF/classes/db.properties
+[java web]  https://gaas.aliyun.com/WEB-INF/classes/conf/jdbc.properties
+[java web]  https://gaas.aliyun.com/WEB-INF/classes/security.properties
+[java web]  https://gaas.aliyun.com/WEB-INF/conf/database_config.properties
+[filescan]  https://gaas.aliyun.com/config.inc
+[filescan]  https://gaas.aliyun.com/a.out
+[filescan]  https://gaas.aliyun.com/key
+[filescan]  https://gaas.aliyun.com/keys
+[filescan]  https://gaas.aliyun.com/key.txt
+[filescan]  https://gaas.aliyun.com/temp.txt
+[filescan]  https://gaas.aliyun.com/tmp.txt
+[filescan]  https://gaas.aliyun.com/readme
+[filescan]  https://gaas.aliyun.com/README
+[filescan]  https://gaas.aliyun.com/readme.md
+[filescan]  https://gaas.aliyun.com/changelog.txt
+[filescan]  https://gaas.aliyun.com/www.log
+[filescan]  https://gaas.aliyun.com/error.log
+[filescan]  https://gaas.aliyun.com/log.log
+[filescan]  https://gaas.aliyun.com/sql.log
+[filescan]  https://gaas.aliyun.com/errors.log
+[filescan]  https://gaas.aliyun.com/db.log
+[filescan]  https://gaas.aliyun.com/data.log
+[filescan]  https://gaas.aliyun.com/app.log
+[filescan]  https://k.1688.com/readme.html
+[filescan]  https://ai.1688.com/readme.html
+[filescan]  https://ocs-buy.aliyun.com/config.json
+[filescan]  https://free.aliyun.com/readme.html
+[filescan]  https://528.1688.com/readme.html
+[filescan]  https://bz.1688.com/readme.html
+[filescan]  https://zhumadian.1688.com/readme.html
+[filescan]  https://fengtai.1688.com/readme.html
+[filescan]  https://guanjia.1688.com/readme.html
+[filescan]  https://jh.1688.com/readme.html
+[filescan]  https://caifu.1688.com/readme.html
+[Workspace Leak]http://cfun.aliyun.com/.idea/workspace.xml
+[filescan]  https://alipay.open.taobao.com/readme.html
+[filescan]  https://dongyang.1688.com/readme.html
+[filescan]  http://index.1688.com/readme.html
+[filescan]  https://hubei.1688.com/readme.html
+[filescan]  https://yixian.1688.com/readme.html
+[filescan]  https://ditu.taobao.com/readme.html
+[filescan]  https://v.taobao.com/readme.html
+[filescan]  http://cfun.aliyun.com/config.json
+[filescan]  http://tns.simba.taobao.com/readme.html
+[java web]  http://cfun.aliyun.com/server.xml
+[filescan]  https://model.taobao.com/readme.html
+[filescan]  https://tmatch.simba.taobao.com/readme.html
+[filescan]  https://114.1688.com/readme.html
+[java web]  https://pay.alibaba.com/WEB-INF/applicationContext.xml
+[java web]  https://pay.alibaba.com/WEB-INF/config.xml
+[java web]  https://pay.alibaba.com/WEB-INF/spring.xml
+[java web]  https://pay.alibaba.com/WEB-INF/struts-config.xml
+[java web]  https://pay.alibaba.com/WEB-INF/struts-front-config.xml
+[java web]  https://pay.alibaba.com/WEB-INF/struts/struts-config.xml
+[java web]  https://pay.alibaba.com/WEB-INF/classes/spring.xml
+[java web]  https://pay.alibaba.com/WEB-INF/classes/struts.xml
+[java web]  https://pay.alibaba.com/WEB-INF/classes/struts_manager.xml
+[java web]  https://pay.alibaba.com/WEB-INF/classes/conf/datasource.xml
+[java web]  https://pay.alibaba.com/WEB-INF/classes/data.xml
+[java web]  https://pay.alibaba.com/WEB-INF/classes/config/applicationContext.xml
+[java web]  https://pay.alibaba.com/WEB-INF/classes/applicationContext.xml
+[java web]  https://pay.alibaba.com/WEB-INF/classes/conf/spring/applicationContext-datasource.xml
+[java web]  https://pay.alibaba.com/WEB-INF/config/db/dataSource.xml
+[java web]  https://pay.alibaba.com/WEB-INF/spring-cfg/applicationContext.xml
+[java web]  https://pay.alibaba.com/WEB-INF/dwr.xml
+[java web]  https://pay.alibaba.com/WEB-INF/classes/hibernate.cfg.xml
+[java web]  https://pay.alibaba.com/WEB-INF/classes/rabbitmq.xml
+[java web]  https://pay.alibaba.com/WEB-INF/conf/activemq.xml
+[java web]  https://pay.alibaba.com/server.xml
+[filescan]  https://pay.alibaba.com/config.json
+[filescan]  https://fuwu.taobao.com/readme.html
+[filescan]  https://app.jianghu.taobao.com/readme.html
+[filescan]  https://dianying.taobao.com/readme.html
+[filescan]  https://ur.taobao.com/readme.html
+[java web]  http://ocs.service.taobao.com/WEB-INF/classes/security.properties
+[filescan]  http://ocs.service.taobao.com/key
+[filescan]  https://110.alibaba.com/readme.html
+[filescan]  https://gongxiao.tmall.com/readme.html
+[filescan]  http://ns.simba.taobao.com/readme.html
+[filescan]  http://wxapi.taobao.com/readme.html
+[filescan]  https://zhaopin.taobao.com/readme.html
+[filescan]  https://we.taobao.com/readme.html
+[filescan]  https://share.jianghu.taobao.com/readme.html
+[filescan]  https://taojinbi.taobao.com/readme.html
+[filescan]  https://vip.taobao.com/readme.html
+[filescan]  https://ju.taobao.com/readme.html
+[filescan]  https://shopsearch.taobao.com/readme.html
+[filescan]  https://youku170.tmall.com/readme.html
+[filescan]  https://zx.taobao.com/readme.html
+[filescan]  https://open.taobao.com/readme.html
+[filescan]  https://etao.taobao.com/readme.html
+[filescan]  https://fang.taobao.com/readme.html
+[filescan]  https://qa.alibaba.com/readme.html
+[filescan]  http://xtns.simba.taobao.com/readme.html
+[filescan]  https://try.taobao.com/readme.html
+[filescan]  https://fws.taobao.com/readme.html
+[filescan]  https://smart.ma.taobao.com/readme.html
+[filescan]  https://develop.aliyun.com/readme
+[filescan]  https://develop.aliyun.com/README
+[filescan]  https://caipiao.taobao.com/readme.html
+[filescan]  https://good.alibaba.com/readme.html
+[filescan]  https://wsapi.jianghu.taobao.com/readme.html
+[filescan]  https://index.bbs.taobao.com/readme.html
+[filescan]  https://suggest.taobao.com/readme.html
+[filescan]  https://seller.taobao.com/readme.html
+[filescan]  https://2.taobao.com/readme.html
+[filescan]  https://service.alibaba.com/config.json
+[filescan]  https://rate.taobao.com/readme.html
+[filescan]  https://waimaoquan.alibaba.com/config.json
+[filescan]  https://amos1.taobao.com/readme.html
+[filescan]  https://item.taobao.com/readme.html
+[filescan]  https://login.m.taobao.com/readme.html
+[filescan]  http://ip.taobao.com/tmp.txt
