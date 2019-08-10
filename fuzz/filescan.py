@@ -71,7 +71,8 @@ def poc(url):
         url = url + "/"
     url = url.rstrip("/")
     payloads = getpayloads()
-    result = []
+    result = {}
+    rel = []
     header = dict()
     header["User-Agent"] = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"
     for payload in payloads:
@@ -91,7 +92,15 @@ def poc(url):
         if payload["content-type_no"]:
             if payload["content-type_no"] in r.headers.get('Content-Type', ''):
                 continue
-        result.append("[filescan]  " + test_url + "  length:" + str(len(r.text)))
+        length = str(len(r.text))
+        if length not in result:
+            result[length] = []
+        result[length].append(test_url)
+        for k,v in result.items():
+            if len(v) > 5:
+                continue
+            for i in v:
+                rel.append("[filescan]  " + i + "  length:" + k
     if result:
         return result
 
