@@ -96,11 +96,11 @@ def poc(url):
         if length not in result:
             result[length] = []
         result[length].append(test_url)
-        for k,v in result.items():
-            if len(v) > 5:
-                continue
-            for i in v:
-                rel.append("[filescan]  " + i + "  length:" + k)
+    for k,v in result.items():
+        if len(v) > 5:
+            continue
+        for i in v:
+            rel.append("[filescan]  " + i + "  length:" + k)
     if rel:
         return rel
 

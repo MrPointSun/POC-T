@@ -107,13 +107,14 @@ def poc(url):
         url = url + "/"
     url = url.rstrip("/")
     payloads = getpayloads()
-    result = []
+    result = {}
+    rel = []
     header = dict()
     header["User-Agent"] = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"
     for payload in payloads:
         test_url = url + payload["path"]
         try:
-            r = requests.get(test_url, headers=header)
+            r = requests.get(test_url, headers=header,allow_redirects=False)
         except:
             continue
         if r.status_code != 200:
@@ -127,7 +128,15 @@ def poc(url):
         if payload["content-type_no"]:
             if payload["content-type_no"] in r.headers.get('Content-Type', ''):
                 continue
-        result.append("[discover traversal]  " + test_url)
-    if result:
-        return result
+        length = str(len(r.text))
+        if length not in result:
+            result[length] = []
+        result[length].append(test_url)
+    for k,v in result.items():
+        if len(v) >= 3:
+            continue
+        for i in v:
+            rel.append("[common set]  " + i + "  length:" + k)
+    if rel:
+        return rel
 
