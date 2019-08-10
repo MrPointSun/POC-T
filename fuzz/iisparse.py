@@ -14,7 +14,7 @@ def poc(url):
         header = dict()
         header["User-Agent"] = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"
         r = requests.get(url, headers=header, timeout=5)
-        if "User-agent" in r.text:
+        if "User-agent" in r.text and 'text/plain' not in r.headers.get("Content-Type",''):
             return '[iis7.5 parse]'+url
         else:
             return False

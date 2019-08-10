@@ -11,26 +11,19 @@ def poc(url):
         url = url + "/"
     phpinfoList = r"""
     phpinfo.php
-PhpInfo.php
-PHPinfo.php
-PHPINFO.php
-phpInfo.php
 info.php
-Info.php
-INFO.php
 phpversion.php
-phpVersion.php
 test1.php
 test.php
 test2.php
 phpinfo1.php
 phpInfo1.php
 info1.php
-PHPversion.php
-x.php
-xx.php
-xxx.php
-    """
+pi.php
+php.php
+i.php
+temp.php
+"""
     paths = phpinfoList.strip().splitlines()
     result = []
     for path in paths:
