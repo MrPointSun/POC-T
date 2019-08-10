@@ -48,7 +48,6 @@ def getpayloads():
     {'path': '/readme', 'tag': '', 'content-type': '', 'content-type_no': 'html'},
     {'path': '/README', 'tag': '', 'content-type': '', 'content-type_no': 'html'},
     {'path': '/readme.md', 'tag': '', 'content-type': '', 'content-type_no': 'html'},
-    {'path': '/readme.html', 'tag': '', 'content-type': 'html', 'content-type_no': ''},
     {'path': '/changelog.txt', 'tag': '', 'content-type': 'text/plain', 'content-type_no': ''},
     {'path': '/%e6%9b%b4%e6%96%b0%e6%97%a5%e5%bf%97.txt', 'tag': '', 'content-type': 'text/plain',
      'content-type_no': ''},
@@ -78,7 +77,7 @@ def poc(url):
     for payload in payloads:
         test_url = url + payload["path"]
         try:
-            r = requests.get(test_url, headers=header)
+            r = requests.get(test_url, headers=header,allow_redirects=False)
         except Exception:
             continue
         if r.status_code != 200:
@@ -92,7 +91,7 @@ def poc(url):
         if payload["content-type_no"]:
             if payload["content-type_no"] in r.headers.get('Content-Type', ''):
                 continue
-        result.append("[filescan]  " + test_url)
+        result.append("[filescan]  " + test_url + "  length:" + str(len(r.text)))
     if result:
         return result
 

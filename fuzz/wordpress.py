@@ -8,7 +8,10 @@ def poc(url):
     url = url.rstrip("/")
     header = dict()
     header["User-Agent"] = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"
-    r = requests.get(url,headers=header, timeout=10)
+    try:
+        r = requests.get(url,headers=header, timeout=10)
+    except:
+        return None
     if "/wp-content/themes/" not in r.text:
         return None
     url_lst = ['/wp-config.php.inc',

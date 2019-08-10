@@ -91,6 +91,6 @@ def poc(url):
             if payload["content-type_no"] in r.headers.get('Content-Type', ''):
                 continue
         result.append("[java web]  " + test_url)
-    if result:
+    if result and len(result) < 5:
         return result
 
