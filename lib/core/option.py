@@ -261,7 +261,7 @@ def Output(args):
         os.path.abspath(
             os.path.join(
                 paths.OUTPUT_PATH, time.strftime(
-                    '[%Y%m%d-%H%M%S]', time.localtime(
+                    '%Y%m%d-%H%M%S', time.localtime(
                         time.time())) + '.txt'))
 
 
