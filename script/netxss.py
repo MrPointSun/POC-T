@@ -14,7 +14,7 @@ def poc(u):
         req = requests.get(url, headers=headers,timeout=35)
     except:
         return False
-    if payload in req.text:
+    if payload in req.text and req.status_code == 200:
         new_payload = "(A(\"onerror='{}'{}))/".format(randomString(6), randomString(6))
         url2 = domain + new_payload
         try:
